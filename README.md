@@ -1,6 +1,6 @@
 # [EN] Power BI Study Repository
 
-This repository is dedicated to storing the dashboards, datasets, and support materials used in my studies of the Power BI tool. The aim is to share these resources with anyone who is interested.
+This repository is dedicated to storing the dashboards, datasets, and support materials used in my studies of the Microsoft Power BI tool. The aim is to share these resources with anyone who is interested.
 
 ## Contents
 - Dashboards
@@ -11,7 +11,7 @@ This repository is dedicated to storing the dashboards, datasets, and support ma
 
 # [PT-BR] Repositório de Estudos de Power BI
 
-Este repositório é dedicado a armazenar os dashboards, datasets e materiais de apoio utilizados em meus estudos da ferramenta Power BI. O objetivo é compartilhar esses recursos com quem estiver interessado.
+Este repositório é dedicado a armazenar os dashboards, datasets e materiais de apoio utilizados em meus estudos da ferramenta Microsoft Power BI. O objetivo é compartilhar esses recursos com quem estiver interessado.
 
 ## Conteúdos
 - Dashboards
