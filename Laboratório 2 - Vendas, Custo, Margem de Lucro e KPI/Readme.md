@@ -30,6 +30,8 @@ Feel free to fork this project and contribute by submitting pull requests or ope
 
 Thank you for visiting this repository!
 
+---
+
 # Versão em Português (PT-BR)
 
 ## Dashboard de Vendas - Power BI
