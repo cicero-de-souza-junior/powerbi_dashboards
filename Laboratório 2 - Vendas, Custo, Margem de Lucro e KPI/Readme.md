@@ -9,7 +9,7 @@ This repository contains a complete Sales Dashboard with Sales, Cost, Profit Mar
 - **Detailed visualization of sales data.**
 - **Analysis of costs and profit margins.**
 - **Tracking KPIs to measure performance against business goals.**
-- **Interactive filters allowing data viewing by Year, Segment, and Country.**
+- **Interactive filters allowing data viewing by Year and Month.**
 
 ### Answered Questions
 The report answers the following business questions:
@@ -43,7 +43,7 @@ Este repositório contém um dashboard completo de Vendas, Custo, Margem de Lucr
 - **Visualização detalhada dos dados de vendas.**
 - **Análise de custos e margens de lucro.**
 - **Acompanhamento de KPIs para medir o desempenho em relação às metas empresariais.**
-- **Filtros interativos permitindo a visualização dos dados por Ano, Segmento e País.**
+- **Filtros interativos permitindo a visualização dos dados por Ano e Mês.**
 
 ### Perguntas Respondidas
 O relatório responde às seguintes perguntas de negócios:
