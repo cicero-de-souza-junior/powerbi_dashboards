@@ -6,6 +6,7 @@ This repository is dedicated to storing the dashboards, datasets, and support ma
 - Dashboards
 - Datasets
 - Support Materials
+- Previews
 
 ---
 
@@ -17,3 +18,4 @@ Este repositório é dedicado a armazenar os dashboards, datasets e materiais de
 - Dashboards
 - Datasets
 - Materiais de Apoio
+- Prévias
